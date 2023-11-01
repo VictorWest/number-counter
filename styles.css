@@ -1,5 +1,5 @@
 body{
-    background-color: #164863
+    background-color: #164863;
 }
 .number{
     font-size: 100px;
@@ -42,7 +42,10 @@ button:hover{
     color: #fff;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
+    body{
+        padding-top: 30px;
+    }
     .button{
         flex-direction: column;
     }
