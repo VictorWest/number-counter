@@ -41,7 +41,7 @@ button:hover{
     color: #fff;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     .button{
         flex-direction: column;
     }
