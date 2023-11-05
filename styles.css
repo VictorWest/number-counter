@@ -36,6 +36,12 @@ button:hover{
     justify-content: center;
     gap: 20px;
 }
+.play{
+    width: 15rem
+}
+.lower{
+    width: 12rem
+}
 .point{
     background-color: rgb(3, 140, 231)!important;
     border: 0;
